@@ -49,7 +49,7 @@ Open the local URL printed by Vite, normally `http://localhost:5173`.
 
 The TV and PC must be able to communicate directly. Guest Wi-Fi, client isolation, VLANs and firewall rules can prevent this even when both devices appear to be connected to the same router. Do not port-forward the Vite development server to the public internet. Use a trusted local network and close the server when finished.
 
-For more detail, see [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md), [docs/DEVICE-TESTING.md](docs/DEVICE-TESTING.md) and [docs/GITHUB-SETUP.md](docs/GITHUB-SETUP.md).
+For more detail, see [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md) and [docs/DEVICE-TESTING.md](docs/DEVICE-TESTING.md).
 
 ## Build for production
 
